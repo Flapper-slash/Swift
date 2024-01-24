@@ -519,6 +519,6 @@ let age = -3
 var index2 : Int = -1
 
 // In the implementation of a subscript...
-precondition(index2 > 0, "Index must be greater than zero.")
+// precondition(index2 > 0, "Index must be greater than zero.")
 
 
