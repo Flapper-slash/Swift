@@ -1,2 +1,2 @@
 # Swift
-swift projects, playgroud..and stuff
+Swift language guide & sample projects
