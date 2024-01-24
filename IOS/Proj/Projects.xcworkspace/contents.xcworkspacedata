@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:collectionViewPagingLayout Veiwer"
+      name = "collectionViewPagingLayout Veiwer">
+      <FileRef
+         location = "group:collectionViewPagingLayout Veiwer.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:collectionViewPagingLayout-Veiwer-Info.plist">
+      </FileRef>
+      <Group
+         location = "group:collectionViewPagingLayout Veiwer"
+         name = "collectionViewPagingLayout Veiwer">
+         <FileRef
+            location = "group:collectionViewPagingLayout_VeiwerApp.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AccentColor.colorset"
+               name = "AccentColor.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Preview Content"
+            name = "Preview Content">
+            <Group
+               location = "group:Preview Assets.xcassets"
+               name = "Preview Assets.xcassets">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:/Users/howl/Workspace/git/Swift/IOS/Proj/collectionViewPagingLayout Veiwer/View/ContentView.swift">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
